@@ -37,7 +37,7 @@ This is a simple image labeling program created using Python's Tkinter and the P
 
 3. Follow the on-screen instructions to label and rotate images.
 
-# Acknowledgments
+## Acknowledgments
 This program was created using Python, Tkinter, and Pillow libraries. Feel free to modify and extend it based on your specific needs.
 
 ## License
